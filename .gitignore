@@ -1,0 +1,11 @@
+.makemd
+.obsidian
+.smart-connections
+.space
+.trash
+
+publish.css
+publish.js
+vercel.json
+
+.DS_Store
